@@ -16,7 +16,7 @@ export const Search = ({
     >
       <Input
         onChange={changeSearchFn}
-        placeholder="Search for recipes"
+        placeholder="Search for the tastiest recipes"
         width="100%"
       />
       <Stack
